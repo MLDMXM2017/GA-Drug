@@ -1,0 +1,4 @@
+只用 cell_line_name, drug_row_cid, drug_col_cid, label 四列
+label：0-additive，1-synergy，2-antagonistic。   0：1：2 = 200：104：2888
+有新增的细胞系和药物，对应的特征数据也有新增
+
